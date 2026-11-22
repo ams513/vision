@@ -92,3 +92,10 @@ blockquote footer{margin-top:14px;font-size:.84rem;color:var(--mut)}
 @media(prefers-reduced-motion:no-preference){.band::before{animation:draw 1.1s cubic-bezier(.16,1,.3,1) both}@keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media print{body{background:#fff;color:#000}.top{display:none}}
+.flag{padding-top:0;padding-bottom:clamp(28px,5vw,48px);display:grid;gap:14px}
+.fl{border:1px solid #9CC4FF44;border-top:2px solid var(--acc);background:#9CC4FF0a;padding:18px 16px 20px;scroll-margin-top:calc(var(--hh) + 10px)}
+.fl-rh{border-top:2px dashed #E9EDF288;border-color:#E9EDF233;background:#E9EDF206}
+.fl .kick{margin:0 0 8px;display:inline-block;margin-right:14px}
+.fl h3{font-size:clamp(1.6rem,5vw,2.6rem);margin:8px 0 4px}
+.fl .scene.big{max-width:50rem}
+.next{margin:16px 0 0;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;color:var(--mut);font-size:.95rem;border-top:1px solid var(--line);padding-top:12px}
