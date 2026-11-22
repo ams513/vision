@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515.933 100" width="515.9" height="100">
+<title>Stark</title>
+<defs><clipPath id="wmk"><rect x="-200" y="0" width="915.9" height="66.500"/><rect x="-200" y="71.500" width="915.9" height="28.500"/></clipPath></defs>
+<g clip-path="url(#wmk)" fill="none" stroke="#E9EDF2" stroke-width="6.6" stroke-linecap="butt" stroke-linejoin="round">
+<g id="S"><path d="M51.315 15.688 A25.500 23.350 0 0 0 6.942 14.624 A25.500 23.350 0 0 0 28.800 50.000 A25.500 23.350 0 0 1 50.658 85.376 A25.500 23.350 0 0 1 6.285 84.312" transform="translate(0.000 0)"/></g>
+<g id="T"><path d="M0.000 3.300 L62.720 3.300" transform="translate(106.933 0)"/><path d="M31.360 0.000 L31.360 100.000" transform="translate(106.933 0)"/></g>
+<g id="A"><path d="M33.445 -20.000 L-1.605 120.000" transform="translate(211.987 0)"/><path d="M38.235 -20.000 L73.285 120.000" transform="translate(211.987 0)"/></g>
+<g id="R"><path d="M3.300 0.000 L3.300 100.000" transform="translate(334.000 0)"/><path d="M3.300 3.300 L28.730 3.300 A26.850 26.850 0 0 1 55.580 30.150 A26.850 26.850 0 0 1 28.730 57.000 L3.300 57.000" transform="translate(334.000 0)"/><path d="M24.730 57.000 L71.379 120.000" transform="translate(334.000 0)"/></g>
+<g id="K"><path d="M3.300 0.000 L3.300 100.000" transform="translate(453.213 0)"/><path d="M4.300 56.000 L78.210 -20.000" transform="translate(453.213 0)"/><path d="M23.361 36.400 L71.193 120.000" transform="translate(453.213 0)"/></g>
+</g></svg>
